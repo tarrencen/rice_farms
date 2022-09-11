@@ -2,7 +2,7 @@ This repo contains work related to a special project for Rice Farms.
 
 # Rice Farms Special Project
 
-This repository contains all files, and ipython notebooks, used in the NLP Project. A full outline of all the files with descriptions can be found below.
+This repository contains all files, and ipython notebooks, used in the project. A full outline of all the files with descriptions can be found below.
 
 To view the slide deck, ["click here."]() 
 
